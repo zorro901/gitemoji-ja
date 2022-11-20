@@ -451,8 +451,8 @@
     {
       "emoji": "🌱",
       "entity": "&#127793;",
-      "code": ":seedling:",
-      "description": "Add or update seed files.",
+      "code": ":seedling: 最初のコミット",
+      "description": "最初のコミット",
       "name": "seedling",
       "semver": null
     },
