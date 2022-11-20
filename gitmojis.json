@@ -451,7 +451,7 @@
     {
       "emoji": "🌱",
       "entity": "&#127793;",
-      "code": ":seedling: 最初のコミット",
+      "code": ":seedling:",
       "description": "最初のコミット",
       "name": "seedling",
       "semver": null
